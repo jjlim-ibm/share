@@ -8,6 +8,7 @@ API Manager
     예) kubectl logs <apim> -f : tail -f 와 유사
         kubectl logs <apim> --since=5m -f : 전체 로그가 아니라 5분 전부터의 tail
         kubectl logs <apim> > apim.log : apim.log로 전체 로그를 받아서 확인
+
 Gateway
 - Workstation 로그인
 - cloudctl -a https://<icp cluster명>:8443
