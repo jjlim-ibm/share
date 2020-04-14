@@ -1,0 +1,8 @@
+로그 수집 - Postmortem
+https://supportcontent.ibm.com/support/pages/api-connect-v2018-postmortem-tool-collect-mustgather-output-required-ibm-support-single-command
+
+
+Postmortem scripts
+https://github.com/ibm-apiconnect/v2018-postmortem
+
+다운로드 받아서 API Manager는 OVA, Gateway는 Kubernetes step으로 진행하시면 됨
